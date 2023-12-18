@@ -1,0 +1,18 @@
+{
+  "name": "hello-world-4",
+  "version": "1.0.0",
+  "description": "A simple Node.js app that greets the world.",
+  "author": "Your Name",
+  "license": "MIT",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
